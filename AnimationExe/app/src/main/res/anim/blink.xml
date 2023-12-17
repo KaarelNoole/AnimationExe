@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <alpha android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:duration="200"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite"/>//dp ei tohi olla duration väärtuse sees, sest tegu on liikumisega mitte suurusega - 8 rida
+</set>

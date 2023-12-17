@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#252e60</color>//coloridel peab olema # ees
+    <color name="colorPrimaryDark">#0f1745</color>//coloridel peab olema # ees
+    <color name="colorAccent">#3F51B5</color>//coloridel peab olema # ees sest see määrab ära et tegu on värviga
+
+</resources>
